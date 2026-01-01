@@ -1,4 +1,4 @@
-TRAINED_GLOSSES = ['minum', 'berjalan', 'berlari', 'bola', 'dari',
+TRAINED_GLOSSES = ['minum', 'berjalan', 'berlari', 'bola', 'dari', 'hi',
                    'jangan', 'mohon', 'pen', 'teh tarik', 'tolong'] # TODO: Make it dynamic
 NUM_CLASSES = len(TRAINED_GLOSSES) # TODO: Make it dynamic
 
